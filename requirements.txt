@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib>=3.3
+seaborn>=0.11
+plotly>=5
+statsforecast>=1.6
+torch

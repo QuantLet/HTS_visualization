@@ -1,0 +1,11 @@
+Name of Quantlet: Hierarchical Time Series : A geometric approach
+
+Published in: HTS_visualization
+
+Description: This notebook introduces phase space and the underlying structure found in hierarchical temporal systems.
+
+Keywords: Visualization, Phase space, Hierarchical Time Series, Forecasting
+
+Author: Owen Chaffard
+
+Submitted:  30.10.2025
